@@ -1,0 +1,18 @@
+{
+  "frame": 0,
+  "timestamp": 0.0,
+  "ego": {
+    "location": {"x": 0.0, "y": 0.0, "z": 0.0},
+    "rotation": {"yaw": 0.0, "pitch": 0.0, "roll": 0.0},
+    "speed_kmh": 0.0
+  },
+  "waypoint": {"x": 0.0, "y": 0.0, "z": 0.0, "yaw": 0.0, "pitch": 0.0, "roll": 0.0},
+  "imu": {"accel": [0.0, 0.0, 0.0], "gyro": [0.0, 0.0, 0.0], "compass": 0.0},
+  "gnss": {"lat": 0.0, "lon": 0.0, "alt": 0.0},
+  "traffic_light": "None",
+  "obstacle": null,
+  "camera_rgb_path": null,
+  "lidar_points_path": null,
+  "radar_detections": 0,
+  "previous_action": null
+}

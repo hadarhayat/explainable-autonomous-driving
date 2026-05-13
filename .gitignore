@@ -1,0 +1,40 @@
+# Unreal / CARLA binaries
+carla_setup/CARLA_0.9.10.1/
+carla_setup/AdditionalMaps_0.9.10.1.tar.gz
+carla_setup/CARLA_0.9.10.1.tar.gz
+
+# Compiled Python stuff
+__pycache__/
+*.pyc
+
+# Logs and temp
+*.log
+*.tmp
+
+# Editor and Jupyter
+.vscode/
+.ipynb_checkpoints/
+
+# Output
+*.egg-info/
+
+#Image captures
+data/captures/images/
+
+data/captures/dev/Town01
+
+data/captures/training/town01/Town01
+data/captures/training/town03/Town03
+data/captures/training/town04/Town04
+data/captures/training/town06/Town06
+
+data/captures/testing/Town02
+data/captures/testing/Town04
+data/captures/testing/Town05
+
+carla_adapter.gguf
+carla_driver_adapter
+
+unsloth_compiled_cache
+
+outputs/

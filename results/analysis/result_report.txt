@@ -1,0 +1,20 @@
+Trained model accuracy: 88.42%
+Llama one-shot model accuracy: 0.32%
+
+Classification report:
+                             precision    recall  f1-score   support
+
+                 Decelerate       0.64      0.27      0.38        33
+        Error: Wrong Format       0.00      0.00      0.00         0
+Hard Brake / Emergency Stop       1.00      0.95      0.97       699
+         Light Acceleration       0.91      0.90      0.90       473
+  Maintain Speed / Coasting       0.25      0.33      0.29         3
+            Sharp Left Turn       0.00      0.00      0.00         2
+           Sharp Right Turn       0.93      0.33      0.48        40
+ Slight Left / Follow Curve       0.81      0.84      0.82       111
+Slight Right / Follow Curve       0.62      0.83      0.71       180
+        Strong Acceleration       0.88      0.91      0.89       307
+
+                   accuracy                           0.88      1848
+                  macro avg       0.60      0.54      0.55      1848
+               weighted avg       0.90      0.88      0.88      1848
