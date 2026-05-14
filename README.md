@@ -15,6 +15,7 @@ llm_sensor_fusion/\
 ├── scripts/ # All the scripts use for the pipeline, setup, collection, curation , formatting, utility scripts, evaluations scrips...\
 ├── README.md # This file
 
+There are some addtional files for this project, not included in this repo due to their storage requirements. Such as the generated .gguf file, the images stored for manual debugging,  the unsloth checkpoint and so on. 
 
 
 
